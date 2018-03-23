@@ -16,7 +16,6 @@ class JackTest {
 
     @org.junit.jupiter.api.Test
     void findCoin() {
-
         assertEquals("My Coin",jack.findCoin());
     }
 }
